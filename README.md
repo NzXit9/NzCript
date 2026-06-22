@@ -1,0 +1,2 @@
+# NzCript
+Bloco freitas up
